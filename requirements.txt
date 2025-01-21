@@ -5,3 +5,4 @@ websockets==12.0
 requests
 colorama
 aiohttp
+licensing
